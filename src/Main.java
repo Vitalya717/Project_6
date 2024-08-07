@@ -8,6 +8,5 @@ public class Main {
         System.out.println("Ежемесячный плетеж составляет: " + payment);
 
 
-
     }
 }
